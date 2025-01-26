@@ -1,0 +1,30 @@
+*{
+    background-color: hsla(271, 56%, 59%, 0.74);
+    text-decoration: none;
+    
+}
+.logo{
+    border-radius: 50%;
+    height: 50px;
+
+}
+.navbar{
+    height: 50px;
+    background-color: hsla(167, 57%, 34%, 0);
+    display: flex;
+   justify-content: space-between;
+    align-items: center;
+    padding: 5vh;
+   
+    
+}
+.links{
+    width: 30%;
+    display: flex;
+    justify-content:flex-start ;
+    gap: 5vh;
+    flex-wrap: wrap;
+
+  
+    
+}
